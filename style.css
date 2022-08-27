@@ -1,0 +1,25 @@
+body{
+  background-color: #f3f3f3
+}
+
+formulario-pergunta{
+  margin-top:10vh;
+}
+
+img {
+ width: 100px;
+ padding-top: 1px;
+ object-fit: contain;
+ border-radius: 10px;
+}
+
+.navbar {
+height: 70px;
+ min-width: 70%;
+}
+
+.container{
+padding-bottom:100%;
+padding-left:10% ;
+}
+
